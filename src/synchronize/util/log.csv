@@ -1,0 +1,16 @@
+| 2021-11-23T21:53:03.425794500 | INFO | synchronize.model.DataModel | Subscribe|
+| 2021-11-23T21:53:03.432801700 | INFO | synchronize.controller.ValueAdapter | Subscribe|
+| 2021-11-23T21:53:03.432801700 | INFO | synchronize.model.DataModel | Subscribe|
+| 2021-11-23T21:53:03.432801700 | INFO | synchronize.model.DataModel | Subscribe|
+| 2021-11-23T21:53:04.747427600 | INFO | synchronize.counters.Counter | Start|
+| 2021-11-23T21:53:04.748429600 | INFO | synchronize.counters.Counter | Start|
+| 2021-11-23T21:53:04.749430200 | INFO | synchronize.counters.Counter | Start|
+| 2021-11-23T21:53:05.843475100 | INFO | synchronize.counters.Counter | Stop|
+| 2021-11-23T21:53:05.844371900 | INFO | synchronize.counters.Counter | Stop|
+| 2021-11-23T21:53:05.844371900 | INFO | synchronize.counters.Counter | Stop|
+| 2021-11-23T21:53:06.523650200 | INFO | synchronize.counters.Counter | Start|
+| 2021-11-23T21:53:06.524659500 | INFO | synchronize.counters.Counter | Start|
+| 2021-11-23T21:53:06.524659500 | INFO | synchronize.counters.Counter | Start|
+| 2021-11-23T21:53:08.328805700 | INFO | synchronize.counters.Counter | Stop|
+| 2021-11-23T21:53:08.329807600 | INFO | synchronize.counters.Counter | Stop|
+| 2021-11-23T21:53:08.329807600 | INFO | synchronize.counters.Counter | Stop|
